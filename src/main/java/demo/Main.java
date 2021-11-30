@@ -1,7 +1,12 @@
-package main;
+package demo;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
+
+import animales.Canario;
+import animales.Gato;
+import animales.Perro;
+import animales.Pez;
 
 public class Main {
 
